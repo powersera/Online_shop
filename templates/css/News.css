@@ -1,0 +1,33 @@
+.title{
+    float: left;
+    width:40%;
+    height: auto;
+    border: 3px solid lightseagreen;
+    margin: 5px;
+}
+
+.post{
+    float: left;
+    width:70%;
+    height: auto;
+    overflow: scroll;
+    margin: 0 auto;
+}
+
+
+#Wrapper{
+    margin:0;
+    padding:0;
+
+
+}
+
+.link{
+    position:relative;
+    height: auto;
+    float:left;
+    border: 1px solid red;
+
+}
+
+
